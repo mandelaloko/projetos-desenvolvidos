@@ -37,9 +37,6 @@ https://www.andinaseguros.com.br/
 ## WordPress + ACF + Feito do Zero
 http://montrelux.com.br/
 
-
-Todo front eu faço com SASS que é um pré-processador CSS, o versionamento é feito com GIT e utilizo o Bootstrap para as grid e responsivo.
-
 # Aplicativos:
 
 ## React Native + Firebase + API Pagar.me
@@ -55,4 +52,25 @@ https://play.google.com/store/apps/details?id=com.garcomappbrasil
 O aplicativo é uma vitrine dos produtos da empresa Benext, nele a vendedora faz o pedido para o cliente.
 A vendedora ganha uma % em cima da venda dos produtos, nesse processo foi utilizado o Split Payment do Pagar.me, que por sinal é maravilhoso. A comunicação com o Pagar.me foi feita com o Symfony como uma camada entre o Pagar.me e o Aplicativo.
 https://play.google.com/store/apps/details?id=br.com.benext
+
+
+# Linguagens e Ferramentas
+
+* Pré-processador SASS com Gulp
+* CSS3
+* JavaScript
+* jQuery
+* HTML5
+* Bootstrap 3,4
+* PHP OO adaptado com actions no WordPress
+* Controle de filters/actions no WordPress
+* React + Redux + Hooks
+* ESLint
+* Git Flow
+* Bitbucket
+* PHP OO
+* Symfony 4 no formato API
+* Silex no formato API
+* Silex com MVC, template engine Twig
+* Animação com Google Web Designer
 
