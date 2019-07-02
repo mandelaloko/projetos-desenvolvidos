@@ -77,4 +77,5 @@ https://play.google.com/store/apps/details?id=br.com.benext
 * AWS - Lightsail, EC2, Elastic Beanstalk, SNS, S3, Polly
 * Firebase
 * Socket.IO
-
+* DER
+* SH para deploy de aplicações simples com RSYNC
