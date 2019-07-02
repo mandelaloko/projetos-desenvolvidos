@@ -23,19 +23,22 @@ Site: https://www.equalisveterinaria.com.br/
 ### Outros:
 
 ## WordPress + ACF + Feito do Zero
+
+https://clubegames.com.br/ (A seleção de jogos na área logada foi feita em React)
+
 http://vivorio.com.br/
+
+https://duomoeducacao.com.br/
+
+https://duomoeducacao.com.br/
+
+https://www.andinaseguros.com.br/
+
+http://montrelux.com.br/
 
 ## WordPress + Woo + ACF + Feito do Zero
 https://www.flowtraining.com.br/
 
-## WordPress + ACF + Feito do Zero
-https://duomoeducacao.com.br/
-
-## WordPress + ACF + Feito do Zero
-https://www.andinaseguros.com.br/
-
-## WordPress + ACF + Feito do Zero
-http://montrelux.com.br/
 
 # Aplicativos:
 
