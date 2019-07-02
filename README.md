@@ -65,6 +65,7 @@ https://play.google.com/store/apps/details?id=br.com.benext
 * PHP OO adaptado com actions no WordPress
 * Controle de filters/actions no WordPress
 * React + Redux + Hooks
+* React Native com e sem o Expo
 * ESLint
 * Git Flow
 * Bitbucket
@@ -73,4 +74,7 @@ https://play.google.com/store/apps/details?id=br.com.benext
 * Silex no formato API
 * Silex com MVC, template engine Twig
 * Animação com Google Web Designer
+* AWS - Lightsail, EC2, Elastic Beanstalk, SNS, S3, Polly
+* Firebase
+* Socket.IO
 
