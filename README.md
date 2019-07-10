@@ -30,12 +30,6 @@ http://vivorio.com.br/
 
 https://duomoeducacao.com.br/
 
-https://duomoeducacao.com.br/
-
-https://www.andinaseguros.com.br/
-
-http://montrelux.com.br/
-
 ## WordPress + Woo + ACF + Feito do Zero
 https://www.flowtraining.com.br/
 
